@@ -59,7 +59,13 @@ df['company']       = [random.choice(COMPANY) for _ in range(len(df))]
 df['length_pref']   = [random.choice(LENGTH)  for _ in range(len(df))]
 df['language_pref'] = [random.choice(LANG)    for _ in range(len(df))]
 
+df['industry'] = 'Hollywood'
+
+boll = pd.read_csv('data/bollywood_movies.csv')
+df = pd.concat([df, boll], ignore_index=True)
+
 df.to_csv('data/mood_movies.csv', index=False)
 
 print(f"Done! {len(df)} movies saved.")
 print(df['mood_category'].value_counts())
+print(df['industry'].value_counts())

@@ -1,0 +1,21 @@
+movieId,title,genres,avg_rating,mood_category,mood_input,energy,company,length_pref,language_pref,industry
+100001,3 Idiots (2009),Comedy|Drama,4.7,Happy,Happy,High,Friends,Long (>120 min),Any,Bollywood
+100002,Dangal (2016),Drama|Sport,4.8,Thoughtful,Neutral,Medium,Family,Long (>120 min),Any,Bollywood
+100003,Sholay (1975),Action|Adventure|Western,4.6,Thrilled,Excited,High,Friends,Long (>120 min),Any,Bollywood
+100004,Dilwale Dulhania Le Jayenge (1995),Drama|Romance,4.7,Dreamy,Chill,Low,Partner,Long (>120 min),Any,Bollywood
+100005,PK (2014),Comedy|Drama|Sci-Fi,4.5,Happy,Happy,Medium,Friends,Long (>120 min),Any,Bollywood
+100006,Lagaan (2001),Drama|Sport,4.6,Thrilled,Excited,High,Family,Long (>120 min),Any,Bollywood
+100007,Dil Chahta Hai (2001),Comedy|Drama,4.5,Happy,Happy,High,Friends,Long (>120 min),Any,Bollywood
+100008,Queen (2014),Adventure|Drama,4.6,Thoughtful,Neutral,Medium,Solo,Long (>120 min),Any,Bollywood
+100009,Zindagi Na Milegi Dobara (2011),Adventure|Comedy|Drama,4.6,Happy,Happy,High,Friends,Long (>120 min),Any,Bollywood
+100010,Andhadhun (2018),Crime|Mystery|Thriller,4.7,Scared,Excited,High,Solo,Long (>120 min),Any,Bollywood
+100011,Tumbbad (2018),Fantasy|Horror,4.5,Scared,Neutral,Medium,Solo,Long (>120 min),Any,Bollywood
+100012,Gully Boy (2019),Drama|Music,4.4,Thrilled,Excited,High,Friends,Long (>120 min),Any,Bollywood
+100013,Taare Zameen Par (2007),Drama,4.7,Thoughtful,Sad,Low,Family,Long (>120 min),Any,Bollywood
+100014,Kabhi Khushi Kabhie Gham (2001),Drama|Romance,4.3,Dreamy,Chill,Low,Family,Long (>120 min),Any,Bollywood
+100015,Rang De Basanti (2006),Drama|History,4.6,Thoughtful,Neutral,High,Friends,Long (>120 min),Any,Bollywood
+100016,Waar (2013),Action|Thriller,4.4,Thrilled,Excited,High,Friends,Long (>120 min),Any,Lollywood
+100017,Punjab Nahi Jaungi (2017),Comedy|Romance,4.3,Happy,Happy,Medium,Family,Long (>120 min),Any,Lollywood
+100018,London Nahi Jaunga (2022),Comedy|Romance,4.1,Happy,Happy,Medium,Family,Long (>120 min),Any,Lollywood
+100019,Parwaaz Hai Junoon (2018),Action|Drama|Romance,4.2,Thrilled,Excited,High,Friends,Long (>120 min),Any,Lollywood
+100020,Cake (2018),Drama,4.3,Thoughtful,Sad,Low,Solo,Long (>120 min),Any,Lollywood
